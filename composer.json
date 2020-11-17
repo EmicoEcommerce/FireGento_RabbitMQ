@@ -6,7 +6,7 @@
   "homepage": "https://github.com/firegento/firegento-rabbitmq",
   "require": {
     "magento-hackathon/magento-composer-installer": "*",
-    "php-amqplib/php-amqplib": "~2.6.0"
+    "php-amqplib/php-amqplib": "~2.6"
   },
   "repositories": [
     {
